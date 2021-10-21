@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\kkandula\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\kkandula\\.nuget\\packages"
+    ]
+  }
+}
